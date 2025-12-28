@@ -3,9 +3,9 @@
   "description": "A Chrome extension to remove all reposted videos on TikTok.",
   "version": "1.0.2",
   "author": {
-    "name": "Mohammed Mostafa Nazih",
-    "email": "mohammedmostafanazih@gmail.com",
-    "url": ""
+    "name": "William Holley",
+    "email": "wholley123@icloud.com",
+    "url": "https://schema.qzz.io"
   },
   "permissions": ["scripting"],
   "host_permissions": ["https://*.tiktok.com/*"],
